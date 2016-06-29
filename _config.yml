@@ -1,0 +1,14 @@
+layout_spectrum: 0.005359942791983485
+typography_spectrum: 0.587073637638241
+color:
+  brandStrength: 0.8131844797171652
+  lightness: 0.6416165144182742
+  saturation: 0.29989619995467365
+  rhythmicContrast: 0.030623826198279858
+  brandColors:
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+name: pj-test

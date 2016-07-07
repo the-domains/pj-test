@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[pj-test]]></title>
         <description><![CDATA[pj-test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pj-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 12:12:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jul 2016 12:21:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pj-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Etiquette]]></title>
+            <description><![CDATA[<article><h1>Etiquette</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0625a20-6582-4027-a1c5-1e2d0870d05e.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0625a20-6582-4027-a1c5-1e2d0870d05e.jpg</link>
+            <guid isPermaLink="false">ab9a6f83-db3f-4885-8a0e-49c4a9e20c9f</guid>
+            <pubDate>Thu, 07 Jul 2016 12:20:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5964ab84-1ded-4e80-8ade-4ddf2512edea.jpg">]]></description>
